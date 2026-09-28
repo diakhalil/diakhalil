@@ -49,12 +49,12 @@
 ### [User Behavior Prediction](https://github.com/diakhalil/User_Behavior_Prediction)
 
 - Built a **supervised classification system** to predict whether users complete food-delivery orders based on their interaction behavior.
-- Addressed a **highly imbalanced dataset**, applying imbalance-handling strategies and comparing models including **Logistic Regression, Random Forest, and XGBoost**.
+- Addressed a **highly imbalanced dataset**, applying imbalance-handling strategies and comparing models including **Logistic Regression, and Random Forest**.
 - Evaluated models primarily using **ROC-AUC** rather than accuracy to better assess predictive performance under class imbalance.
 
 **Tech:**
 
-`Python` &bull; `scikit-learn` &bull; `XGBoost` &bull; `Classification`
+`Python` &bull; `scikit-learn` &bull;  `Classification`
 
 > **Evaluation:** ROC-AUC
 
